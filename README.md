@@ -1,5 +1,7 @@
 # Code Notes
 
+- https://github.com/railek/code-notes.git
+
 ## 🛒 Requirements
 
 Go to the [official Node.js website](https://nodejs.org/) and download the installer for your approriate operating systems. Do the same for [git](https://git-scm.com/).
