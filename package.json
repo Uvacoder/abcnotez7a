@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"scripts": {
 		"build": "gatsby build",
-		"dev": "gatsby develop --open",
+		"dev": "gatsby develop",
 		"clean": "gatsby clean"
 	},
 	"husky": {
@@ -35,8 +35,8 @@
 		"gatsby-transformer-sharp": "^2.4.4",
 		"mkdirp": "^1.0.4",
 		"prism-react-renderer": "^1.0.2",
-		"react": "^16.13.1",
-		"react-dom": "^16.13.1",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2",
 		"react-helmet": "^6.0.0",
 		"react-icons": "^3.8.0",
 		"remark-emoji": "^2.0.2",
