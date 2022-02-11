@@ -5,8 +5,10 @@
 	"author": "Jean Brock <jean@railek.com>",
 	"license": "MIT",
 	"scripts": {
-		"build": "gatsby build",
-		"dev": "gatsby develop",
+		"develop": "gatsby develop",
+  	    "start": "gatsby develop",
+        "build": "gatsby build",
+        "serve": "gatsby serve",
 		"clean": "gatsby clean"
 	},
 	"husky": {
@@ -20,7 +22,7 @@
 		"@mdx-js/react": "^1.5.7",
 		"babel-plugin-styled-components": "^1.10.7",
 		"color-hash": "^2.0.1",
-		"gatsby": "^2.20.13",
+		"gatsby": "^4.5.3",
 		"gatsby-image": "^2.3.1",
 		"gatsby-plugin-catch-links": "^2.1.25",
 		"gatsby-plugin-mdx": "^1.1.6",
