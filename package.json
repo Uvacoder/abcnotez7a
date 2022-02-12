@@ -5,8 +5,8 @@
 	"author": "Jean Brock <jean@railek.com>",
 	"license": "MIT",
 	"scripts": {
-		"develop": "gatsby develop",
-        "build": "gatsby build",
+		"build": "gatsby build",
+		"dev": "gatsby develop",
 		"clean": "gatsby clean"
 	},
 	"husky": {
@@ -40,7 +40,7 @@
 		"react-helmet": "^6.1.0",
 		"react-icons": "^4.3.1",
 		"remark-emoji": "^3.0.2",
-		"remark-slug": "^7.0.2",
+		"remark-slug": "^7.0.1",
 		"remark-squeeze-paragraphs": "^5.0.1",
 		"remark-truncate-links": "^1.0.3",
 		"remark-unwrap-images": "^3.0.1",
